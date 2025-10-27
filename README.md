@@ -9,4 +9,4 @@ https://fcomontsep.github.io/variado-js-github-pages/
 
 <hr>
 
-<img src="preview/miniaturas.jpg"></a>
+<img src="https://i.imgur.com/u6MbjMb.jpg"></a>
